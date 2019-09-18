@@ -8,3 +8,6 @@ boton.addEventListener('click',function(){
 document.addEventListener('click',function(){
     console.log("A nu maa si funciona");
 })
+
+const elemento =  document.querySelector('.side');
+consi
